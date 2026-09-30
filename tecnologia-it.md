@@ -1,11 +1,11 @@
 ## ¿Qué tecnología es?
 
 ## ¿Por qué me interesa?
-Escribe aquí tus propias palabras.
-hola.
+esta chida 
 
 ## ¿Qué necesito aprender primero?
-Hola Amigos
+Lo basico 
 
 ## ¿Qué me gustaría construir con ella?
-Tu respuesta con tus palabras.
+Es 10/10
+
