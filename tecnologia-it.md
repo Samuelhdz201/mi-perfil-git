@@ -3,3 +3,5 @@
 ## ¿Por qué me interesa?
 Escribe aquí tus propias palabras.
 hola.
+
+## ¿Qué necesito aprender primero?
