@@ -1,5 +1,5 @@
+# Mi perfil en Git
 
-# Mi perfil en Git (version de main)
+Soy Samuel Romario Hernandez Benitez, estudiante de Ingeneria y gestion de desarrollo de software C.
 
-# Mi perfil en Git (version de la rama)
-
+Este repositorio es mi proyecto práctico de control de versiones con Git: aquí registro mis cambios y respondo qué tecnología IT me gustaría aprender.
